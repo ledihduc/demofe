@@ -1,6 +1,6 @@
 import axios from "axios";
 const api = {
-  list: "http://localhost:1234/posts",
+  list: "https://backend.mysempai.net/posts",
 };
 
 const PostService = {
